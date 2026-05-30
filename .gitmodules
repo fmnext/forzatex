@@ -1,0 +1,15 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/fmnext/core
+[submodule "DirectXTex"]
+	path = DirectXTex
+	url = https://github.com/fmnext/DirectXTex
+[submodule "deps"]
+	path = deps
+	url = https://github.com/fmnext/deps
+[submodule "xb"]
+	path = xb
+	url = https://github.com/fmnext/xb
+[submodule "xbg"]
+	path = xbg
+	url = https://github.com/fmnext/xbg
